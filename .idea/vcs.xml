@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/air" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/maverick_os" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican_game_engine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican_ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican_ui_proc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pelican_ui_std" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ramp_games" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wgpu_canvas" vcs="Git" />
+  </component>
+</project>

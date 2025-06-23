@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/engine/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/maverick_os/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pelican_game_engine/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pelican_ui/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pelican_ui_std/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wgpu_canvas/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ramp_games/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/engine/target" />
+      <excludeFolder url="file://$MODULE_DIR$/maverick_os/target" />
+      <excludeFolder url="file://$MODULE_DIR$/pelican_game_engine/target" />
+      <excludeFolder url="file://$MODULE_DIR$/pelican_ui/target" />
+      <excludeFolder url="file://$MODULE_DIR$/pelican_ui_std/target" />
+      <excludeFolder url="file://$MODULE_DIR$/wgpu_canvas/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ramp_games/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
